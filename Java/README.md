@@ -88,3 +88,5 @@ HttpGetExample.class  HttpGetExample.java  dd-java-agent.jar  dd-trace-api-1.26.
 - 若已連接 Datadog Agent，Trace 應會自動被收集
 
 
+## 參考連結
+https://docs.datadoghq.com/tracing/trace_collection/custom_instrumentation/java/dd-api
